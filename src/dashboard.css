@@ -1,29 +1,52 @@
 .pane {
-    background: #fff;
-    border-style: solid;
-    border-color: #fff;
-    border-width: 1px;
-    margin-top: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
-    border-radius: 5px;
-    /* box-shadow: 2px 2px 2px #dddddd; */
+  background: #fff;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 1px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 5px;
 }
-
+.logo {
+  color: #fff;
+  font-size: 16px;
+  height: 53px;
+  line-height: 53px;
+}
 .header {
-    background-color: #eee;
-    margin: 5px;
-    padding-left: 10px;
-    padding-top: 4px;
-    border-radius: 5px;
-    height: 30px;
+  margin: 5px;
+  padding-left: 10px;
+  padding-top: 4px;
+  border-radius: 5px;
+  height: 30px;
+  font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
+.profile {
+  width: 30px;
+  height: 30px;
+  float: right;
+  margin-top: 10px;
+}
+.name {
+  float: right;
+  margin-right: 10px;
+}
+.logout {
+  width: 20px;
+  height: 20px;
+  float: right;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.footer {
+  height: 20px;
+  background: #fff;
+}
+.copyright {
+  margin-top: -10;
+  text-align: center;
+}
+.share {
+  margin-top: 10px;
+}

@@ -1,0 +1,10 @@
+.clock {
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  border: 1px dashed;
+  border-radius: 50%;
+  padding-top: 55px;
+  margin: 50px auto;
+  font-weight: bold;
+}

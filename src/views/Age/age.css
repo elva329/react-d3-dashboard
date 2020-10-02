@@ -1,0 +1,8 @@
+.age-pane {
+  height: 600px;
+  background-color: white;
+}
+.bar-chart {
+  overflow-x: 'scroll';
+  overflow-y: 'hidden';
+}
